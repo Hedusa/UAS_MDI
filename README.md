@@ -25,6 +25,6 @@ flutter run
 Pilih emulator atau perangkat fisik untuk menjalankan aplikasi.
 
 Screenshot UI dan Tampilan
-![Login](./assets/)
-![Sign Up](./assets/)
-![Dashboard](./assets/)
+Signup (./assets/)
+Login (./assets/)
+Home (./assets/)
