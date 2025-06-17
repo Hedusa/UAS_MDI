@@ -25,6 +25,6 @@ flutter run
 Pilih emulator atau perangkat fisik untuk menjalankan aplikasi.
 
 Screenshot UI dan Tampilan
-![Login](./Screenshot%202025-06-17%20at%2023.01.37.png)
-![Sign Up](./Screenshot%202025-06-17%20at%2023.01.46.png)
-![Dashboard](./Screenshot%202025-06-17%20at%2023.02.28.png)
+![Login](./assets/)
+![Sign Up](./assets/)
+![Dashboard](./assets/)
